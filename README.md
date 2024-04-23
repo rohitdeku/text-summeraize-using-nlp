@@ -1,4 +1,4 @@
-# Simple Text Summarizer
+# Text Summarizer Using NLP
 
 ## Overview
 This project provides a simple text summarizer that scrapes web pages, processes the text using various NLP techniques, and returns a concise summary. The summarizer leverages powerful libraries including NLTK, BERT Extractive Summarizer, and Transformers to analyze and summarize content effectively.
